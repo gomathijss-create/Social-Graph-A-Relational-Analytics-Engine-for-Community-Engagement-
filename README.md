@@ -1,4 +1,4 @@
-# Social Graph: A Relational Analytics Engine for Community Engagement 
+# Social Graph: A Relational Analytics Engine for Community Engagement using MySQL
 
 # 📖 Table of Contents
 
